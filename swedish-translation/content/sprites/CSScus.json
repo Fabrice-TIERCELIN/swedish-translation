@@ -1,0 +1,25 @@
+{
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "CSScusn.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "CSScuss.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "CSScush.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "CSScush.pcx.png"
+        }
+    ],
+    "basepath": "CSScus/"
+}
