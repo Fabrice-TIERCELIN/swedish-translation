@@ -6017,7 +6017,7 @@
 	"road.core.cobblestoneRoad.name": "Kullerstensväg",
 	"road.core.dirtRoad.name": "Jordväg",
 	"road.core.gravelRoad.name": "Grusväg",
-"skill.core.airMagic.description.advanced": "{Avancerad Luftmagi}\r\n\r\nLåter hjälten kasta lufttrollformler till reducerad kostnad och med ökad effekt.",
+	"skill.core.airMagic.description.advanced": "{Avancerad Luftmagi}\r\n\r\nLåter hjälten kasta lufttrollformler till reducerad kostnad och med ökad effekt.",
 	"skill.core.airMagic.description.basic"   : "{Basal Luftmagi}\r\n\r\nLåter hjälten kasta lufttrollformler till reducerad trolleripoängskostnad.",
 	"skill.core.airMagic.description.expert"  : "{Mästerlig Luftmagi}\r\n\r\nLåter hjälten kasta lufttrollformler till reducerad kostnad och med maximal effekt.",
 	"skill.core.airMagic.name"                : "Luftmagi",
